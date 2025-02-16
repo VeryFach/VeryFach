@@ -1,7 +1,8 @@
 <h1 align="center">Fachru A CS Student</h1>
 
-![image](https://github.com/user-attachments/assets/87b78b3a-d3b0-4ecb-b0b2-5fb9b3a31e77)
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4b/7b/4b7b7c18f3d6b87c6e3cb998303c04ea.gif" width="400px">
+</p>
 
 <h3 align="center">A curious developer diving into frontend, backend, and everything in between</h3>
 
