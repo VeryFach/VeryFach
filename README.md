@@ -16,6 +16,6 @@
 
 ###
 
-<img src="https://github.com/VeryFach/VeryFach/blob/815e95406bff445acd454da07cda0af242e79b35/snake.yml" alt="Snake animation" />
+<img src="https://github.com/VeryFach/VeryFach/blob/815e95406bff445acd454da07cda0af242e79b35/snake.svg" alt="Snake animation" />
 
 ###
