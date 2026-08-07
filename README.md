@@ -43,7 +43,7 @@
 <p align="left">
   <strong>DevOps & Observability</strong> · 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="32" alt="jenkins" />
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" height="32" alt="jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="32" alt="prometheus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="32" alt="grafana" />
 </p>
