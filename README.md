@@ -1,4 +1,4 @@
-<h1 align="center">Fachru A · CS Student</h1>
+<h1 align="center">Fachru A · Comp Sci Student</h1>
 
 <p align="center">
   <img src="https://github.com/VeryFach/VeryFach/blob/84762bc7834a931b54abba5696fb0df9e39f06d5/6ffd92210207a52e0a0e96fc158eded1.gif" width="400px">
