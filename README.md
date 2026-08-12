@@ -16,36 +16,58 @@
 
 <p align="left">
   <strong>Languages</strong> · 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="ts" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" alt="go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="php" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
 </p>
 
 <p align="left">
-  <strong>Frameworks & Tools</strong> · 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="32" alt="svelte" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="32" alt="jest" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="jupyter" />
+  <strong>Backend Frameworks & API</strong> · 
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="springboot" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi" />
 </p>
 
 <p align="left">
-  <strong>Databases</strong> · 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32" alt="redis" />
+  <strong>Frontend & Testing</strong> · 
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest" />
 </p>
 
 <p align="left">
-  <strong>DevOps & Observability</strong> · 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker" />
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" height="32" alt="jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="32" alt="prometheus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="32" alt="grafana" />
+  <strong>Data Analytics & Visualization</strong> · 
+  
+  <!-- Jupyter (dari devicon, aman) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
+  
+  <!-- Tableau, Power BI, Metabase (dari jsdelivr + filter putih agar kelihatan di dark mode) -->
+  <img src="https://zonalogo.com/assets/tableau-logo-png-svg.webp?asset=4801&w=320" height="40" alt="tableau" style="filter: brightness(0) invert(1);" />
+</p>
+
+<p align="left">
+  <strong>Data Layer (DB & ORMs)</strong> · 
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma" />
+</p>
+
+<p align="left">
+  <strong>Cloud & DevOps</strong> · 
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp" />
 </p>
 
 ---
